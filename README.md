@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700|Old+Standard+TT&display=swap&subset=cyrillic" rel="stylesheet">
+    <title>аааааааААААААААА</title>
+  </head>
 
-You can use the [editor on GitHub](https://github.com/AmbraAttori/ambraattori.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+  <body>
+    <header class="page-header">
+      <div class="container">
+      напиши мне напиши
+      </div>
+    </header>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <section class="hero-image">
+      <div class="container">
+      <h1 class="heading">Амбра</h1>
+      <p>need help</p>
+      </div>
+    </section>
 
-### Markdown
+    <section class="intro">
+      <div class="container">
+      <h2 class="subheading">что?</h2>
+      <h3>надеюсь я не сломаю эту хрень</h3>
+      <p>потому что я её уже ломала.</p>
+      <h3>как?</h3>
+      <p>я не знаю...............</p>
+      </div>
+    </section>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <section class="portfolio">
+      <div class="container">
+      <h2 class="subheading">список главных лохов на районе (после меня)</h2>
 
-```markdown
-Syntax highlighted code block
+      <h3>Вирс лох</h3>
+      <p>потому что шевелит щупальцами</p>
 
-# Header 1
-## Header 2
-### Header 3
+      <h3>Крем лох</h3>
+      <p>потому что падает в обморок от слова писька</p>
+      </div>
+    </section>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AmbraAttori/ambraattori.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    <footer class="page-footer">
+      <div class="container">
+      труп в подвале
+      </div>
+    </footer>
+  </body>
+</html>
